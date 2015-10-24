@@ -5,11 +5,11 @@ Veri yapıları dersi için Linked List kullanarak bir alış-veriş listesi olu
 
 a. Tüm program generic Linked List kullanılarak yapılacaktır.
 
-b. TümalışverişlistesitekbirLinkedListtetutulacaktır.
+b. Tüm alışveriş listesi tek bir Linked Listte tutulacaktır.
 
 c. Uygulama java swing ile gerçekleştirilecektir.
 
-d. Uygulamayaaitekrangörüntüsüşekil1degörülmektedir.
+d. Uygulamaya ait ekran görüntüsü şekil1de görülmektedir.
 
 e. Add to List butonuna tıklandığında item name ve item index listenin sonuna
 eklenecek ve aynı zamanda ekrandaki jlist üzerindede gözükecektir.
@@ -17,7 +17,7 @@ eklenecek ve aynı zamanda ekrandaki jlist üzerindede gözükecektir.
 f. Remove to List butonuna tıklandığında ise seçilen index e ait olan item listeden
 silinecektir (Linked list teki düğümlerin 0 dan başladığını varsayınız)
 
-g. Ödevlerbireyselyapılacaktır.
+g. Ödevler bireysel yapılacaktır.
 
 h. Anlaşılmayan noktalarda ders hocasının kapısı sizlere her zaman açıktır.
 
